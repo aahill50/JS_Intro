@@ -20,8 +20,3 @@ Array.prototype.myUniq = function () {
 
   return uniqArray;
 };
-
-
-
-
-
